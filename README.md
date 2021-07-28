@@ -1,14 +1,10 @@
 # TinyDB
-Incredibly lightweight portable JSON database built with PHP.
-A mongodb like database.
-Inspired by python library TinyDb.(Though not very functional like it , will be in the future)
-Uses a JSON file as a database.
-You can search,
-        insert,
-        update,
-        delete data.
-For now it only supports two-dimensional data.
-       
+TinyDB is a portable database API made with PHP. This was never intended ti be used in any program. This program was built as a fun project.
+You can search, insert, update and delete data.
+It only supports two-dimensional data.
+
+
+## Usage
 ```
 <?php
   include "TinyDB.php";
